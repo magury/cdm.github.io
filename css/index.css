@@ -1,0 +1,59 @@
+@charset "utf-8";
+#box {
+	height: 950px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#top {
+	height: 250px;
+	width: 850px;
+}
+#nav {
+	height: 50px;
+	width: 850px;
+	background-color: #FCC;
+}
+#contant {
+	height: 600px;
+	width: 850px;
+}
+#bottom {
+	text-align: center;
+	height: 40px;
+	width: 850px;
+	padding-top: 10px;
+	color: #F69;
+	background-color: #FCC;
+}
+a:link {
+	color: #F69;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #F69;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+#left {
+	float: left;
+	height: 600px;
+	width: 350px;
+}
+#right {
+	float: left;
+	height: 600px;
+	width: 500px;
+}
+#kuang {
+	height: 120px;
+	width: 320px;
+	border: 1px solid #FCC;
+}
+/* CSS Document */
+
